@@ -69,6 +69,8 @@ If taps, radiators and other metalwork all feel live even with your main switch 
 | All metalwork live, even with the main switch off | Electrician, plus 105 for the DNO | Urgent |
 | Consumer unit wet or hard to reach safely | Electrician | Do not touch anything until they arrive |
 
+![Electric shock from a socket: who to call and myth vs fact table for UK homes](./assets/img/electric-shock-from-socket-who-to-call-myth-vs-fact-uk.png)
+
 ## Things people tell themselves (and why they are wrong)
 
 - **"It was just static."** Static does not repeat every time you turn on a tap.
