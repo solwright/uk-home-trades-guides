@@ -15,5 +15,6 @@ These guides are written by Sol Wright at [Tradehand](https://tradehand.com/?utm
 - [Checkatrade Alternatives in 2026: Six Options Compared for UK Homeowners](./checkatrade-alternatives-uk-2026-compared.html)
 - [Finding a Plumber in the UK in 2026: A Homeowner's Shortlist, Compared](./find-a-plumber-uk-2026-shortlist.html)
 - [Fuse Box Sparking at Night? A UK Homeowner Plan for Tonight and Tomorrow](./fuse-box-sparking-uk-night-plan.html)
+- [Melted Plug After a Heater Overnight? UK Checklist Before the Electrician Arrives](./melted-plug-uk-heater-overnight-checklist.html)
 
 More guides will be added over time.
