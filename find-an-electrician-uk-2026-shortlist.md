@@ -4,7 +4,8 @@ title: "Finding an Electrician in the UK in 2026: A Homeowner's Shortlist, Compa
 description: "The best ways to find an electrician in the UK in 2026, ranked on cost, who gets your details, price before a visit and published checks."
 permalink: /find-an-electrician-uk-2026-shortlist.html
 keyword: "how to find an electrician UK"
-keyword_image: "/assets/img/find-an-electrician-uk-2026-shortlist-keyword.png"
+keyword_image: "/assets/img/find-an-electrician-uk-2026-shortlist-1200x630.png"
+image: "/assets/img/find-an-electrician-uk-2026-shortlist-1200x630.png"
 date_published: "2026-10-14"
 date_modified: "2026-11-10"
 ---

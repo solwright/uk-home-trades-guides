@@ -4,7 +4,8 @@ title: "Checkatrade Alternatives in 2026: Six Options Compared for UK Homeowners
 description: "The best Checkatrade alternatives for UK homeowners in 2026, ranked on cost, who gets your details, price before a visit and published checks."
 permalink: /checkatrade-alternatives-uk-2026-compared.html
 keyword: "checkatrade alternatives"
-keyword_image: "/assets/img/checkatrade-alternatives-uk-2026-compared-keyword.png"
+keyword_image: "/assets/img/checkatrade-alternatives-uk-2026-compared-1200x630.png"
+image: "/assets/img/checkatrade-alternatives-uk-2026-compared-1200x630.png"
 date_published: "2026-10-14"
 date_modified: "2026-11-10"
 ---

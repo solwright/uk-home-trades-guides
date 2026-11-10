@@ -4,7 +4,8 @@ title: "Melted Plug After a Heater Overnight? UK Checklist Before the Electricia
 description: "UK plug melted in a wall socket after a heater, dryer or overnight load? How to isolate safely, what not to reuse, what to tell the electrician, and landlord or tenant steps."
 permalink: /melted-plug-uk-heater-overnight-checklist.html
 keyword: "melted plug"
-keyword_image: "/assets/img/melted-plug-uk-heater-overnight-checklist-keyword.png"
+keyword_image: "/assets/img/melted-plug-uk-heater-overnight-checklist-1200x630.png"
+image: "/assets/img/melted-plug-uk-heater-overnight-checklist-1200x630.png"
 date_published: "2026-11-05"
 date_modified: "2026-11-10"
 ---

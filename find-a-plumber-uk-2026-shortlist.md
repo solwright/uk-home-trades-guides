@@ -4,7 +4,8 @@ title: "Finding a Plumber in the UK in 2026: A Homeowner's Shortlist, Compared"
 description: "The best ways to find a plumber in the UK in 2026, ranked on cost, who gets your details, price before a visit and published checks."
 permalink: /find-a-plumber-uk-2026-shortlist.html
 keyword: "how to find a plumber UK"
-keyword_image: "/assets/img/find-a-plumber-uk-2026-shortlist-keyword.png"
+keyword_image: "/assets/img/find-a-plumber-uk-2026-shortlist-1200x630.png"
+image: "/assets/img/find-a-plumber-uk-2026-shortlist-1200x630.png"
 date_published: "2026-10-14"
 date_modified: "2026-11-10"
 ---

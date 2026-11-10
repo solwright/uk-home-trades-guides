@@ -4,7 +4,8 @@ title: "Tingling Tap or Live Socket at Home? A UK Safety Checklist for the First
 description: "Felt a tingle or a jolt from a tap, radiator or plug socket? What UK homeowners, tenants and landlords should do in the first hour, who to call, and what the electrician checks."
 permalink: /tingling-tap-or-live-socket-uk-safety-checklist.html
 keyword: "electric shock from tap"
-keyword_image: "/assets/img/tingling-tap-or-live-socket-uk-safety-checklist-keyword.png"
+keyword_image: "/assets/img/tingling-tap-or-live-socket-uk-safety-checklist-1200x630.png"
+image: "/assets/img/tingling-tap-or-live-socket-uk-safety-checklist-1200x630.png"
 date_published: "2026-09-28"
 date_modified: "2026-11-10"
 ---
