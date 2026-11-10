@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 *Written by Sol Wright, co-founder of [Tradehand](https://tradehand.com/plumbers/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=best-shortlist). Published 14 October 2026. Disclosure: this is Tradehand's own content and Tradehand is one of the options compared, ranked first. Competitor details come only from each competitor's own published pages, read on 14 October 2026.*
 

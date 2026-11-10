@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 Before an EV charger installer visits your UK home, you can save time and get a better quote by knowing your parking spot, your rough cable route, what your consumer unit looks like and which charger you want. The installer then checks your supply and earthing and prices the job on survey. A typical home charge point costs around £800 to £1,200 installed, according to Energy Saving Trust.

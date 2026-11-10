@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 UK trades googling how installer programmes pay, or how to get more EV charger install work without buying leads, usually want fit work with the pay shown first.

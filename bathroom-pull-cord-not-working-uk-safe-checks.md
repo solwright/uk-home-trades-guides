@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 Bathroom pull cord dead overnight? Here are the UK safe checks to run before you open anything, for homeowners who reached for the dangling cord and got nothing.

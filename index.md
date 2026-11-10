@@ -3,6 +3,21 @@ layout: home
 title: UK Home Trades Guides
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "UK Home Trades Guides",
+  "url": "https://solwright.github.io/uk-home-trades-guides/",
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tradehand",
+    "url": "https://tradehand.com"
+  }
+}
+</script>
+
 Practical, plain-English guides for UK homeowners, tenants and landlords dealing with a problem at home, and for trades working out how a referred install job works.
 
 These guides are written by Sol Wright at [Tradehand](https://tradehand.com/?utm_source=github_pages&utm_medium=parasite&utm_campaign=problems), a UK marketplace that connects homeowners with local tradespeople. They are general information, not DIY instructions for electrical or gas work.

@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 Booking an Electrical Installation Condition Report is easy to get wrong in the enquiry email. One electrician quotes inspection only. Another bundles "we'll sort anything we find". A third adds VAT without saying so. You then compare three numbers that are not the same job.

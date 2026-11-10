@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 Fuse box sparking at night is one of the most frightening things a UK homeowner can hear or see. It often happens in the evening, when the oven, kettle, shower and heaters are all pulling power at once and a weak connection in the consumer unit finally gives way. This page is a plan for tonight and for the repair visit tomorrow. It is not a guide to working on the board.

@@ -11,6 +11,7 @@ date_modified: "2026-11-10"
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
 {% endif %}
+{% include parasite-schema.html %}
 
 
 Melted plug after a heater overnight is one of the most common Instant Quote briefs UK electricians see in the first cold snap. An oil-filled heater, fan heater or tumble dryer left on for hours through a wall socket or an extension board overheats a weak connection. The plastic softens. The fuse often never blows. This page is a checklist for the hours before the electrician arrives. It is not DIY electrical instruction.
