@@ -4,7 +4,7 @@ title: "Before You Book an EICR: Questions That Keep the Quote Comparable (UK 20
 description: "UK EICR booking checklist: what the £100–£330 Which? band covers, questions that keep quotes comparable, and landlord vs homeowner tips. Remedials usually separate."
 permalink: /eicr-cost-uk-2026-booking-checklist.html
 keyword: "eicr cost"
-keyword_image: "/assets/img/eicr-cost-uk-2026-booking-checklist-keyword.png"
+keyword_image: "/assets/img/eicr-cost-uk-2026-booking-checklist-1200x630.png"
 date_published: "2026-11-06"
 date_modified: "2026-11-10"
 ---
