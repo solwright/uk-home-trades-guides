@@ -5,6 +5,7 @@ description: "How the AIZO Quality Heating installer programme pays: Tradehand r
 permalink: /how-aizo-installer-jobs-work.html
 keyword: "EV charger installation jobs UK"
 keyword_image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
+image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
 date_published: "2026-11-10"
 date_modified: "2026-11-10"
 ---

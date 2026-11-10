@@ -5,6 +5,7 @@ description: "UK checklist before an EV charger installer visits: supply, earthi
 permalink: /ev-charger-pre-survey-checklist-uk.html
 keyword: "ev charger installers near me"
 keyword_image: "/assets/img/ev-charger-pre-survey-checklist-uk-1200x630.png"
+image: "/assets/img/ev-charger-pre-survey-checklist-uk-1200x630.png"
 date_published: "2026-11-10"
 date_modified: "2026-11-10"
 ---

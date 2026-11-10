@@ -5,6 +5,7 @@ description: "UK EICR booking checklist: what the £100–£330 Which? band cove
 permalink: /eicr-cost-uk-2026-booking-checklist.html
 keyword: "eicr cost"
 keyword_image: "/assets/img/eicr-cost-uk-2026-booking-checklist-1200x630.png"
+image: "/assets/img/eicr-cost-uk-2026-booking-checklist-1200x630.png"
 date_published: "2026-11-06"
 date_modified: "2026-11-10"
 ---
