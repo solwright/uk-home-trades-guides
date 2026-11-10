@@ -3,7 +3,15 @@ layout: page
 title: "How AIZO Installer Jobs Work for UK Trades"
 description: "How the AIZO Quality Heating installer programme pays: Tradehand refers sold installs, you own the job, the customer already bought the kit, and pay is shown before you accept. EV chargers from £594, depending on the job."
 permalink: /how-aizo-installer-jobs-work.html
+keyword: "EV charger installation jobs UK"
+keyword_image: "/assets/img/how-aizo-installer-jobs-work-keyword.png"
+date_published: "2026-11-10"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 
 UK trades googling how installer programmes pay, or how to get more EV charger install work without buying leads, usually want fit work with the pay shown first.
 

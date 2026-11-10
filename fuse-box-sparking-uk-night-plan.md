@@ -3,7 +3,15 @@ layout: page
 title: "Fuse Box Sparking at Night? A UK Homeowner Plan for Tonight and Tomorrow"
 description: "Consumer unit sparking, crackling or smelling hot in a UK home, often in the evening? What to do tonight, how to stay warm and safe with the power off, what the electrician checks tomorrow, and which certificate you should get afterwards."
 permalink: /fuse-box-sparking-uk-night-plan.html
+keyword: "fuse box sparking"
+keyword_image: "/assets/img/fuse-box-sparking-uk-night-plan-keyword.png"
+date_published: "2026-10-26"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 
 Fuse box sparking at night is one of the most frightening things a UK homeowner can hear or see. It often happens in the evening, when the oven, kettle, shower and heaters are all pulling power at once and a weak connection in the consumer unit finally gives way. This page is a plan for tonight and for the repair visit tomorrow. It is not a guide to working on the board.
 

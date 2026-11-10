@@ -3,7 +3,15 @@ layout: page
 title: "Checkatrade Alternatives in 2026: Six Options Compared for UK Homeowners"
 description: "The best Checkatrade alternatives for UK homeowners in 2026, ranked on cost, who gets your details, price before a visit and published checks."
 permalink: /checkatrade-alternatives-uk-2026-compared.html
+keyword: "checkatrade alternatives"
+keyword_image: "/assets/img/checkatrade-alternatives-uk-2026-compared-keyword.png"
+date_published: "2026-10-14"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 *Written by Sol Wright, co-founder of [Tradehand](https://tradehand.com/?utm_source=github_pages&utm_medium=parasite&utm_campaign=best-shortlist). Published 14 October 2026. Disclosure: this is Tradehand's own content and Tradehand is one of the options compared, ranked first. Competitor details come only from each competitor's own published pages, read on 14 October 2026.*
 
 ## Key takeaways

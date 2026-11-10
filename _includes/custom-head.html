@@ -1,0 +1,45 @@
+{% if page.keyword %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": {{ page.date_published | jsonify }},
+  "dateModified": {{ page.date_modified | default: page.date_published | jsonify }},
+  "inLanguage": "en-GB",
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "keywords": {{ page.keyword | jsonify }},
+  {% if page.keyword_image %}"image": "{{ site.url }}{{ site.baseurl }}{{ page.keyword_image }}",{% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "Sol Wright",
+    "url": "https://tradehand.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tradehand",
+    "url": "https://tradehand.com"
+  }
+}
+</script>
+{% elsif page.layout == "home" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tradehand",
+    "url": "https://tradehand.com"
+  }
+}
+</script>
+{% endif %}

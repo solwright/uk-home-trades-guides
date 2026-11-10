@@ -3,7 +3,15 @@ layout: page
 title: "Bathroom Pull Cord Dead Overnight? UK Safe Checks Before You Open Anything"
 description: "UK bathroom or toilet pull cord light switch stopped working? What homeowners can check safely, when heat or a burning smell means stop, who to call, and why a wall switch outside the door is often the lasting fix."
 permalink: /bathroom-pull-cord-not-working-uk-safe-checks.html
+keyword: "pull cord not working"
+keyword_image: "/assets/img/bathroom-pull-cord-not-working-uk-safe-checks-keyword.png"
+date_published: "2026-10-09"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 
 Bathroom pull cord dead overnight? Here are the UK safe checks to run before you open anything, for homeowners who reached for the dangling cord and got nothing.
 

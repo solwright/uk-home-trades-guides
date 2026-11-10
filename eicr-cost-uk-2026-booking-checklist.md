@@ -3,7 +3,15 @@ layout: page
 title: "Before You Book an EICR: Questions That Keep the Quote Comparable (UK 2026)"
 description: "UK EICR booking checklist: what the £100–£330 Which? band covers, questions that keep quotes comparable, and landlord vs homeowner tips. Remedials usually separate."
 permalink: /eicr-cost-uk-2026-booking-checklist.html
+keyword: "eicr cost"
+keyword_image: "/assets/img/eicr-cost-uk-2026-booking-checklist-keyword.png"
+date_published: "2026-11-06"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 
 Booking an Electrical Installation Condition Report is easy to get wrong in the enquiry email. One electrician quotes inspection only. Another bundles "we'll sort anything we find". A third adds VAT without saying so. You then compare three numbers that are not the same job.
 

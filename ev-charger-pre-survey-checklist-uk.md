@@ -3,7 +3,15 @@ layout: page
 title: "Is Your Home Ready for an EV Charger? A UK Pre-Survey Checklist (2026)"
 description: "UK checklist before an EV charger installer visits: supply, earthing, cable route, parking spot and what to ask. Typical home charge point £800 to £1,200 installed (Energy Saving Trust)."
 permalink: /ev-charger-pre-survey-checklist-uk.html
+keyword: "ev charger installers near me"
+keyword_image: "/assets/img/ev-charger-pre-survey-checklist-uk-keyword.png"
+date_published: "2026-11-10"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 
 Before an EV charger installer visits your UK home, you can save time and get a better quote by knowing your parking spot, your rough cable route, what your consumer unit looks like and which charger you want. The installer then checks your supply and earthing and prices the job on survey. A typical home charge point costs around £800 to £1,200 installed, according to Energy Saving Trust.
 

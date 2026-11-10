@@ -3,7 +3,15 @@ layout: page
 title: "Finding an Electrician in the UK in 2026: A Homeowner's Shortlist, Compared"
 description: "The best ways to find an electrician in the UK in 2026, ranked on cost, who gets your details, price before a visit and published checks."
 permalink: /find-an-electrician-uk-2026-shortlist.html
+keyword: "how to find an electrician UK"
+keyword_image: "/assets/img/find-an-electrician-uk-2026-shortlist-keyword.png"
+date_published: "2026-10-14"
+date_modified: "2026-11-10"
 ---
+{% if page.keyword_image %}
+<p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
+{% endif %}
+
 *Written by Sol Wright, co-founder of [Tradehand](https://tradehand.com/electricians/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=best-shortlist). Published 14 October 2026. Disclosure: this is Tradehand's own content and Tradehand is one of the options compared, ranked first. Competitor details come only from each competitor's own published pages, read on 14 October 2026.*
 
 ## Key takeaways
