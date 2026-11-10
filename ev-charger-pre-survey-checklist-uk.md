@@ -70,3 +70,5 @@ Get your landlord's written permission first.
 ## Find a local installer
 
 Compare EV charger installers near you: [https://tradehand.com/ev-charger-installers/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=ev-charger-installers](https://tradehand.com/ev-charger-installers/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=ev-charger-installers)
+
+A short companion on using a near-me list safely: [https://telegra.ph/ev-charger-installers-near-me-11-10](https://telegra.ph/ev-charger-installers-near-me-11-10)

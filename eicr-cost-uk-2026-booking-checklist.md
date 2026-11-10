@@ -85,6 +85,8 @@ When you are ready for a local figure against a clear scope:
 
 Ask for inspection-only pricing first. Decide on remediations after the report, with costs itemised.
 
+A shorter companion on what is and is not inside that fee: [https://telegra.ph/eicr-cost-11-10](https://telegra.ph/eicr-cost-11-10)
+
 ## Sources
 
 Figures and caveats above are taken from Tradehand's EICR cost hub, which cites Which?, How much do electricians cost? (2026) (Trusted Traders survey, November 2025, 19 traders) and Electrical Safety First on periodic inspection and testing.
