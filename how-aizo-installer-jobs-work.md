@@ -87,3 +87,5 @@ Read the live rates and apply if the work suits your patch:
 [https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-installers](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-installers)
 
 A short companion on the extras you see before you accept: [https://telegra.ph/EV-charger-installation-jobs-UK-11-10](https://telegra.ph/EV-charger-installation-jobs-UK-11-10)
+
+MCS solar installer? See [solar panel installer jobs](./solar-panel-installer-jobs.html) for what the programme needs from you.

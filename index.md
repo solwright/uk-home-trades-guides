@@ -33,9 +33,11 @@ These guides are written by Sol Wright at [Tradehand](https://tradehand.com/?utm
 - [Melted Plug After a Heater Overnight? UK Checklist Before the Electrician Arrives](./melted-plug-uk-heater-overnight-checklist.html)
 - [Before You Book an EICR: Questions That Keep the Quote Comparable (UK 2026)](./eicr-cost-uk-2026-booking-checklist.html)
 - [Is Your Home Ready for an EV Charger? A UK Pre-Survey Checklist (2026)](./ev-charger-pre-survey-checklist-uk.html)
+- [plumber near me: what to do first and how to compare](./plumber-near-me.html)
 
 ## Guides for trades
 
 - [How AIZO Installer Jobs Work for UK Trades](./how-aizo-installer-jobs-work.html)
+- [solar panel installer jobs](./solar-panel-installer-jobs.html)
 
 More guides will be added over time.
