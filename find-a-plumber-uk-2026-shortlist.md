@@ -99,3 +99,5 @@ Turn off the stopcock and call an emergency plumber directly. Online quote servi
 - [Checkatrade master service terms (membership, 12-month term)](https://www.checkatrade.com/master-service-terms)
 
 Start with a free instant price on [Tradehand](https://tradehand.com/quote?utm_source=github_pages&utm_medium=parasite&utm_campaign=best-shortlist).
+
+Need someone today? Read [plumber near me: what to do first and how to compare local plumbers](plumber-near-me.html).
