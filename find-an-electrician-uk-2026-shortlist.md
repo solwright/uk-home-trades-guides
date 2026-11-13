@@ -99,4 +99,6 @@ If it is safe, switch off at the consumer unit and call an emergency electrician
 - [Bark: seller pricing (credits)](https://www.bark.com/en/gb/sellers/pricing/)
 - [Checkatrade master service terms (membership, 12-month term)](https://www.checkatrade.com/master-service-terms)
 
+Need someone local today? See [electrician near me](electrician-near-me.html) for the safety-first checks.
+
 Start with a free instant price on [Tradehand](https://tradehand.com/quote?utm_source=github_pages&utm_medium=parasite&utm_campaign=best-shortlist).

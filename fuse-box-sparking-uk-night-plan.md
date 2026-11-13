@@ -95,6 +95,7 @@ Costs vary by property, circuits and access, so always confirm on a quote. The [
 ## Next steps
 
 - Full UK guide with causes, safe steps and FAQs: [fuse box sparking](https://tradehand.com/problems/sparking/fuse-box-sparking?utm_source=github_pages&utm_medium=parasite&utm_campaign=problems)
+- How to pick someone local: [electrician near me](electrician-near-me.html)
 - Get a price and a local electrician lined up: [Tradehand instant quote](https://tradehand.com/instant-quote?utm_source=github_pages&utm_medium=parasite&utm_campaign=problems)
 - [Tradehand](https://tradehand.com/?utm_source=github_pages&utm_medium=parasite&utm_campaign=problems) is a UK trades marketplace that is free for homeowners to use.
 
