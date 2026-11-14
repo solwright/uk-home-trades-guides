@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "How AIZO Installer Jobs Work for UK Trades"
-description: "How the AIZO Quality Heating installer programme pays: Tradehand refers sold installs, you own the job, the customer already bought the kit, and pay is shown before you accept. EV chargers from £660, depending on the job."
+description: "How the AIZO Quality Heating installer programme pays: Tradehand refers sold installs, you own the job, the customer already bought the kit, and pay is shown before you accept. EV chargers from £594, depending on the job."
 permalink: /how-aizo-installer-jobs-work.html
 keyword: "EV charger installation jobs UK"
 keyword_image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
 image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
 date_published: "2026-11-10"
-date_modified: "2026-11-13"
+date_modified: "2026-11-14"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -19,23 +19,23 @@ UK trades googling how installer programmes pay, or how to get more EV charger i
 
 Short answer: on the AIZO Quality Heating programme, Tradehand refers sold installs. You own the job. The customer already bought the kit. Pay is shown before you accept. There is no lead fee.
 
-Live from-£ figures (standard install, depending on the job), checked on the programme page on 13 November 2026:
+Live from-£ figures (standard install, depending on the job), checked on the programme page on 14 November 2026:
 
 | Work | From £ |
 |------|--------|
-| EV charger installation | £660 |
-| Battery storage installation | £650 |
-| Solar panel installation | £2,470 |
-| Solar inverter replacement | £425 |
-| Thermostat and heating controls | £110 |
-| Boiler installation | £970 |
-| Air conditioning installation | £170 |
+| EV charger installation | £594 |
+| Battery storage installation | £585 |
+| Solar panel installation | £2,223 |
+| Solar inverter replacement | £382.50 |
+| Thermostat and heating controls | £99 |
+| Boiler installation | £873 |
+| Air conditioning installation | £153 |
 
-The full table is on the live page. Re-check it before you quote anyone.
+The full table is on the live page. Re-check it before you quote anyone. Trade guides: [boiler installer jobs](boiler-installer-jobs.html) and [air conditioning installer jobs](air-conditioning-installer-jobs.html).
 
 [https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-installers](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-installers)
 
-*By Sol Wright, Tradehand. Updated 13 November 2026.*
+*By Sol Wright, Tradehand. Updated 14 November 2026.*
 
 ## How does the job work?
 

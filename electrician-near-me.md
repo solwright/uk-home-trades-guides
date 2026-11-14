@@ -53,6 +53,6 @@ It depends on the area and the job. For anything unsafe, say so when you call so
 **What is an EICR?**
 An Electrical Installation Condition Report is a safety check of your wiring. Landlords in England need one at least every five years.
 
-Related: [EICR cost UK checklist](eicr-cost-uk-2026-booking-checklist.html), [find an electrician UK shortlist](find-an-electrician-uk-2026-shortlist.html) and [kitchen fitters near me](kitchen-fitters-near-me.html).
+Related: [EICR cost UK checklist](eicr-cost-uk-2026-booking-checklist.html), [find an electrician UK shortlist](find-an-electrician-uk-2026-shortlist.html), [kitchen fitters near me](kitchen-fitters-near-me.html) and [electricians in southampton](electricians-in-southampton.html).
 
 [Find an electrician near you](https://tradehand.com/electricians/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=electrician-near-me)

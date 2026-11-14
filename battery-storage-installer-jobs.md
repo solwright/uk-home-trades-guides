@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "battery storage installer jobs"
-description: "Battery storage installer jobs for UK MCS trades through the AIZO Quality Heating programme: the customer buys the battery, you fit it, and you see your pay before you accept. From £650, depending on the job."
+description: "Battery storage installer jobs for UK MCS trades through the AIZO Quality Heating programme: the customer buys the battery, you fit it, and you see your pay before you accept. From £585, depending on the job."
 permalink: /battery-storage-installer-jobs.html
 keyword: "battery storage installer jobs"
 keyword_image: "/assets/img/battery-storage-installer-jobs-1200x630.png"
 image: "/assets/img/battery-storage-installer-jobs-1200x630.png"
 date_published: "2026-11-12"
-date_modified: "2026-11-13"
+date_modified: "2026-11-14"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -16,13 +16,13 @@ date_modified: "2026-11-13"
 
 Battery storage installer jobs mostly show up as salaried roles on job boards. If you already run your own MCS business and just want more battery fits without paying for leads, there is another route.
 
-Short answer: the AIZO Quality Heating installer programme refers sold battery installs to local installers who have joined. The customer buys the battery. You fit it. The customer pays you once the job is done. Battery storage installation on the programme starts from £650, depending on the job.
+Short answer: the AIZO Quality Heating installer programme refers sold battery installs to local installers who have joined. The customer buys the battery. You fit it. The customer pays you once the job is done. Battery storage installation on the programme starts from £585, depending on the job.
 
 Straight up on timing: the live battery page says AIZO customers can't book battery fitting yet. When they can, the jobs go to installers who have already joined. So it's a good time to get set up, not a promise of jobs this week.
 
 [See the live battery rates and sign up](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-battery-installers)
 
-*By Sol Wright, Tradehand. Updated 13 November 2026.*
+*By Sol Wright, Tradehand. Updated 14 November 2026.*
 
 ## What do you need to join?
 
@@ -30,20 +30,20 @@ Straight up on timing: the live battery page says AIZO customers can't book batt
 - Public liability insurance
 - The working areas and days you want jobs in
 
-If you also fit EV chargers and hold an EV charger qualification, EV jobs are live on the programme now, from £660 depending on the job.
+If you also fit EV chargers and hold an EV charger qualification, EV jobs are live on the programme now, from £594 depending on the job.
 
 ## How much do battery jobs pay?
 
-From £650 for a standard battery install, depending on the job and the kit. Pay goes up by product, and the live page lists extras that add to your pay, such as moving existing solar onto a new inverter, a long cable run from the fuse box, an old fuse box, a three-phase inverter and where the kit goes. You see the full figure before you accept.
+From £585 for a standard battery install, depending on the job and the kit. Pay goes up by product, and the live page lists extras that add to your pay, such as moving existing solar onto a new inverter, a long cable run from the fuse box, an old fuse box, a three-phase inverter and where the kit goes. You see the full figure before you accept.
 
 Related work on the same programme, all "from" figures that depend on the job:
 
 | Work | From |
 |------|------|
-| Battery storage installation | £650 |
-| Solar inverter replacement | £425 |
-| Solar panel installation | £2,470 |
-| EV charger installation | £660 |
+| Battery storage installation | £585 |
+| Solar inverter replacement | £382.50 |
+| Solar panel installation | £2,223 |
+| EV charger installation | £594 |
 
 Check the live page before you rely on any number. Rates get tuned from installer feedback.
 

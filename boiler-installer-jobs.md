@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "boiler installer jobs"
-description: "Boiler installer jobs for Gas Safe engineers through the AIZO Quality Heating programme: the customer buys the boiler, you fit it, and you see your pay before you accept. From £970, depending on the job."
+description: "Boiler installer jobs for Gas Safe engineers through the AIZO Quality Heating programme: the customer buys the boiler, you fit it, and you see your pay before you accept. From £873, depending on the job."
 permalink: /boiler-installer-jobs.html
 keyword: "boiler installer jobs"
 keyword_image: "/assets/img/boiler-installer-jobs-1200x630.png"
 image: "/assets/img/boiler-installer-jobs-1200x630.png"
 date_published: "2026-11-13"
-date_modified: "2026-11-13"
+date_modified: "2026-11-14"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -16,13 +16,13 @@ date_modified: "2026-11-13"
 
 Most boiler installer jobs online are salaried roles on job boards. If you're already Gas Safe and running your own thing, and you just want more boiler swaps without buying leads, there's another way in.
 
-Short answer: the AIZO Quality Heating installer programme passes sold boiler installs to local Gas Safe engineers who have joined. The customer buys the boiler. You fit it. The customer pays you once the job is done. Boiler installation on the programme starts from £970, depending on the job.
+Short answer: the AIZO Quality Heating installer programme passes sold boiler installs to local Gas Safe engineers who have joined. The customer buys the boiler. You fit it. The customer pays you once the job is done. Boiler installation on the programme starts from £873, depending on the job.
 
 Honest bit on timing: the live boiler page says AIZO customers can't book boiler fitting yet. When they can, the jobs go to engineers who have already joined. So this is set-up time, not a promise of work next week.
 
 [See the live boiler rates and sign up](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-boiler-installers)
 
-*By Sol Wright, Tradehand. Updated 13 November 2026.*
+*By Sol Wright, Tradehand. Updated 14 November 2026.*
 
 ## What do you need to join?
 
@@ -32,20 +32,20 @@ Honest bit on timing: the live boiler page says AIZO customers can't book boiler
 
 ## How much do boiler jobs pay?
 
-From £970 a job, and up to £1,140 depending on the boiler (combi, system or regular). Extra work adds to it, and the offer shows your full pay before you accept. A few of the extras on the live page:
+From £873 a job, and up to £1,026 depending on the boiler (combi, system or regular). Extra work adds to it, and the offer shows your full pay before you accept. A few of the extras on the live page:
 
 | Extra on the job | Adds |
 |------|------|
-| New boiler goes in the loft or on another floor | £1,200 |
-| Changing a regular or system boiler to a combi | £850 |
-| Wall flue with the boiler more than 3 metres from an outside wall | £800 |
-| Powerflush, not just a chemical clean | £480 |
-| Gas pipe needs upgrading, often to 22mm | £240 |
-| Property is in London | £150 |
+| New boiler goes in the loft or on another floor | £1,080 |
+| Changing a regular or system boiler to a combi | £765 |
+| Wall flue with the boiler more than 3 metres from an outside wall | £720 |
+| Powerflush, not just a chemical clean | £432 |
+| Gas pipe needs upgrading, often to 22mm | £216 |
+| Property is in London | £135 |
 
 The live page says the pay covers your labour, standard parts, the certificate and the notifications. Check it before you rely on any number, because rates get tuned from installer feedback.
 
-Other heating work on the same programme, all "from" figures that depend on the job: oil boiler installation from £1,250, underfloor heating from £975, radiator installation and replacement from £215, thermostat and heating controls from £110.
+Other heating work on the same programme, all "from" figures that depend on the job: oil boiler installation from £1,125, underfloor heating from £877.50, radiator installation and replacement from £193.50, thermostat and heating controls from £110.
 
 ## How does a job work?
 
@@ -69,8 +69,8 @@ No. You see the job and your pay first and only take the ones you want.
 Nobody can promise that. Jobs depend on where AIZO customers buy.
 
 **I also do electrics. Anything else live?**
-EV charger installation is live on the programme now, from £660 depending on the job, if you hold an EV charger qualification.
+EV charger installation is live on the programme now, from £594 depending on the job, if you hold an EV charger qualification.
 
-Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [battery storage installer jobs](battery-storage-installer-jobs.html) and [solar panel installer jobs](solar-panel-installer-jobs.html).
+Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [battery storage installer jobs](battery-storage-installer-jobs.html), [solar panel installer jobs](solar-panel-installer-jobs.html) and [air conditioning installer jobs](air-conditioning-installer-jobs.html).
 
 [Join the AIZO installer programme](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-boiler-installers)

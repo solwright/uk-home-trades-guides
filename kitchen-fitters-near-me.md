@@ -52,6 +52,6 @@ Often not for like-for-like units, but new electrical circuits and some plumbing
 **Should I get more than one price?**
 Yes. Two or three written prices for the same scope make it easy to compare.
 
-Related: [electrician near me](electrician-near-me.html) and [plumber near me](plumber-near-me.html).
+Related: [electrician near me](electrician-near-me.html), [plumber near me](plumber-near-me.html) and [electricians in southampton](electricians-in-southampton.html).
 
 [Find a kitchen fitter near you](https://tradehand.com/kitchen-fitters/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=kitchen-fitters-near-me)
