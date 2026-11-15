@@ -7,7 +7,7 @@ keyword: "air conditioning installer jobs"
 keyword_image: "/assets/img/air-conditioning-installer-jobs-1200x630.png"
 image: "/assets/img/air-conditioning-installer-jobs-1200x630.png"
 date_published: "2026-11-14"
-date_modified: "2026-11-14"
+date_modified: "2026-11-15"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -69,6 +69,6 @@ Nobody can promise that. Jobs depend on where AIZO customers buy.
 **I'm also an electrician. Anything live now?**
 EV charger installation is live on the programme, from £594 depending on the job, if you hold an EV charger qualification.
 
-Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) and [battery storage installer jobs](battery-storage-installer-jobs.html).
+Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) [battery storage installer jobs](battery-storage-installer-jobs.html) and [underfloor heating jobs](underfloor-heating-jobs.html).
 
 [Join the AIZO installer programme](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-aircon-installers)

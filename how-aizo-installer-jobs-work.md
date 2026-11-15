@@ -7,7 +7,7 @@ keyword: "EV charger installation jobs UK"
 keyword_image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
 image: "/assets/img/how-aizo-installer-jobs-work-1200x630.png"
 date_published: "2026-11-10"
-date_modified: "2026-11-14"
+date_modified: "2026-11-15"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -90,4 +90,4 @@ A short companion on the extras you see before you accept: [https://telegra.ph/E
 
 MCS solar installer? See [solar panel installer jobs](./solar-panel-installer-jobs.html) for what the programme needs from you.
 
-Fitting batteries? See [battery storage installer jobs](./battery-storage-installer-jobs.html). Gas Safe? See [boiler installer jobs](./boiler-installer-jobs.html).
+Fitting batteries? See [battery storage installer jobs](./battery-storage-installer-jobs.html). Gas Safe? See [boiler installer jobs](./boiler-installer-jobs.html). Fit underfloor heating? See [underfloor heating jobs](./underfloor-heating-jobs.html). Air con? See [air conditioning installer jobs](./air-conditioning-installer-jobs.html).

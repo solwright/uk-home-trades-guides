@@ -7,7 +7,7 @@ keyword: "electricians in southampton"
 keyword_image: "/assets/img/electricians-in-southampton-1200x630.png"
 image: "/assets/img/electricians-in-southampton-1200x630.png"
 date_published: "2026-11-14"
-date_modified: "2026-11-14"
+date_modified: "2026-11-15"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -62,6 +62,6 @@ Yes. Landlords in England need an EICR at least every five years, and sooner if 
 **Can I book online?**
 Yes. You can tell Tradehand what needs doing, see a price, and book a local electrician.
 
-Related: [electrician near me](electrician-near-me.html), [EICR cost UK checklist](eicr-cost-uk-2026-booking-checklist.html) and [fuse box sparking at night](fuse-box-sparking-uk-night-plan.html).
+Related: [electrician near me](electrician-near-me.html), [EICR cost UK checklist](eicr-cost-uk-2026-booking-checklist.html) [fuse box sparking at night](fuse-box-sparking-uk-night-plan.html) and [bathroom fitters near me](bathroom-fitters-near-me.html).
 
 [Find an electrician in Southampton](https://tradehand.com/electricians/uk/southampton?utm_source=github_pages&utm_medium=parasite&utm_campaign=electricians-in-southampton)
