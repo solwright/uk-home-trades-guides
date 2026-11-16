@@ -38,6 +38,7 @@ These guides are written by Sol Wright at [Tradehand](https://tradehand.com/?utm
 - [kitchen fitters near me](./kitchen-fitters-near-me.html)
 - [electricians in southampton](./electricians-in-southampton.html)
 - [bathroom fitters near me](./bathroom-fitters-near-me.html)
+- [locksmith near me](./locksmith-near-me.html)
 
 ## Guides for trades
 
@@ -47,5 +48,6 @@ These guides are written by Sol Wright at [Tradehand](https://tradehand.com/?utm
 - [boiler installer jobs](./boiler-installer-jobs.html)
 - [air conditioning installer jobs](./air-conditioning-installer-jobs.html)
 - [underfloor heating jobs](./underfloor-heating-jobs.html)
+- [self employed electrician jobs](./self-employed-electrician-jobs.html)
 
 More guides will be added over time.

@@ -53,6 +53,6 @@ Yes. Two or three written prices for the same scope make it easy to compare.
 **Do I need to empty the bathroom first?**
 Usually yes. Ask the fitter when the water will be off and whether you'll have a working toilet during the job.
 
-Related: [kitchen fitters near me](kitchen-fitters-near-me.html), [plumber near me](plumber-near-me.html) and [electrician near me](electrician-near-me.html).
+Related: [kitchen fitters near me](kitchen-fitters-near-me.html), [plumber near me](plumber-near-me.html) [electrician near me](electrician-near-me.html) and [locksmith near me](locksmith-near-me.html).
 
 [Find a bathroom fitter near you](https://tradehand.com/bathroom-fitters/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=bathroom-fitters-near-me)

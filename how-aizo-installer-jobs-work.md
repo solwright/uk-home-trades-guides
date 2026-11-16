@@ -90,4 +90,4 @@ A short companion on the extras you see before you accept: [https://telegra.ph/E
 
 MCS solar installer? See [solar panel installer jobs](./solar-panel-installer-jobs.html) for what the programme needs from you.
 
-Fitting batteries? See [battery storage installer jobs](./battery-storage-installer-jobs.html). Gas Safe? See [boiler installer jobs](./boiler-installer-jobs.html). Fit underfloor heating? See [underfloor heating jobs](./underfloor-heating-jobs.html). Air con? See [air conditioning installer jobs](./air-conditioning-installer-jobs.html).
+Fitting batteries? See [battery storage installer jobs](./battery-storage-installer-jobs.html). Gas Safe? See [boiler installer jobs](./boiler-installer-jobs.html). Fit underfloor heating? See [underfloor heating jobs](./underfloor-heating-jobs.html), [self employed electrician jobs](self-employed-electrician-jobs.html). Air con? See [air conditioning installer jobs](./air-conditioning-installer-jobs.html).

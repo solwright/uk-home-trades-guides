@@ -63,6 +63,6 @@ Nobody can promise that. Jobs depend on where AIZO customers buy.
 **Anything live right now?**
 If you're an electrician with an EV charger qualification, EV charger installation is live on the programme, from £594 depending on the job.
 
-Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) and [air conditioning installer jobs](air-conditioning-installer-jobs.html).
+Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) [air conditioning installer jobs](air-conditioning-installer-jobs.html) and, for electricians, [self employed electrician jobs](self-employed-electrician-jobs.html).
 
 [Join the AIZO installer programme](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-ufh-installers)
