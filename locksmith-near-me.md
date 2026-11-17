@@ -7,7 +7,7 @@ keyword: "locksmith near me"
 keyword_image: "/assets/img/locksmith-near-me-1200x630.png"
 image: "/assets/img/locksmith-near-me-1200x630.png"
 date_published: "2026-11-16"
-date_modified: "2026-11-16"
+date_modified: "2026-11-17"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -56,6 +56,6 @@ A careful locksmith will ask. Have ID or a bill handy once you're inside.
 **Should I get more than one price?**
 Yes, even in a hurry. Two quick calls can save a lot.
 
-Related: [electrician near me](electrician-near-me.html), [plumber near me](plumber-near-me.html) and [bathroom fitters near me](bathroom-fitters-near-me.html).
+Related: [electrician near me](electrician-near-me.html), [plumber near me](plumber-near-me.html) [bathroom fitters near me](bathroom-fitters-near-me.html) and [glazier near me](glazier-near-me.html).
 
 [Find a locksmith near you](https://tradehand.com/locksmiths/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=locksmith-near-me)

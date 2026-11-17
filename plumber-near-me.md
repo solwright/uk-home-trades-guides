@@ -7,7 +7,7 @@ keyword: "plumber near me"
 keyword_image: "/assets/img/plumber-near-me-1200x630.png"
 image: "/assets/img/plumber-near-me-1200x630.png"
 date_published: "2026-11-11"
-date_modified: "2026-11-11"
+date_modified: "2026-11-17"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -56,6 +56,8 @@ Only if they're Gas Safe registered for that work. Check before they start.
 
 **Should I pay upfront?**
 Agree the price and payment terms before work starts, and keep it in writing.
+
+Related: [locksmith near me](locksmith-near-me.html) and [glazier near me](glazier-near-me.html).
 
 For a side-by-side look at ways to find a plumber, see [Finding a Plumber in the UK in 2026](./find-a-plumber-uk-2026-shortlist.html).
 

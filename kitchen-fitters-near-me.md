@@ -7,7 +7,7 @@ keyword: "kitchen fitters near me"
 keyword_image: "/assets/img/kitchen-fitters-near-me-1200x630.png"
 image: "/assets/img/kitchen-fitters-near-me-1200x630.png"
 date_published: "2026-11-13"
-date_modified: "2026-11-15"
+date_modified: "2026-11-17"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -52,6 +52,6 @@ Often not for like-for-like units, but new electrical circuits and some plumbing
 **Should I get more than one price?**
 Yes. Two or three written prices for the same scope make it easy to compare.
 
-Related: [electrician near me](electrician-near-me.html), [plumber near me](plumber-near-me.html) [electricians in southampton](electricians-in-southampton.html) and [bathroom fitters near me](bathroom-fitters-near-me.html).
+Related: [electrician near me](electrician-near-me.html), [plumber near me](plumber-near-me.html) [electricians in southampton](electricians-in-southampton.html) [bathroom fitters near me](bathroom-fitters-near-me.html), [locksmith near me](locksmith-near-me.html) and [glazier near me](glazier-near-me.html).
 
 [Find a kitchen fitter near you](https://tradehand.com/kitchen-fitters/uk?utm_source=github_pages&utm_medium=parasite&utm_campaign=kitchen-fitters-near-me)

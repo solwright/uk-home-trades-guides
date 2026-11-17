@@ -5,3 +5,5 @@ lang: en-GB
 theme: minima
 url: https://solwright.github.io
 baseurl: /uk-home-trades-guides
+plugins:
+  - jekyll-sitemap

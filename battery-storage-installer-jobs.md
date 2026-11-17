@@ -7,7 +7,7 @@ keyword: "battery storage installer jobs"
 keyword_image: "/assets/img/battery-storage-installer-jobs-1200x630.png"
 image: "/assets/img/battery-storage-installer-jobs-1200x630.png"
 date_published: "2026-11-12"
-date_modified: "2026-11-14"
+date_modified: "2026-11-17"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -71,6 +71,6 @@ No. You see the area, the kit and your pay first. Skip anything that doesn't sui
 **How many jobs will I get?**
 Nobody can promise that. Jobs depend on where AIZO customers buy.
 
-Related: [solar panel installer jobs](solar-panel-installer-jobs.html), [boiler installer jobs](boiler-installer-jobs.html) and [how AIZO installer jobs work](how-aizo-installer-jobs-work.html).
+Related: [solar panel installer jobs](solar-panel-installer-jobs.html), [boiler installer jobs](boiler-installer-jobs.html) [how AIZO installer jobs work](how-aizo-installer-jobs-work.html) and [self employed electrician jobs](self-employed-electrician-jobs.html).
 
 [Join the AIZO installer programme](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-battery-installers)

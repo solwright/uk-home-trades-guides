@@ -7,7 +7,7 @@ keyword: "underfloor heating jobs"
 keyword_image: "/assets/img/underfloor-heating-jobs-1200x630.png"
 image: "/assets/img/underfloor-heating-jobs-1200x630.png"
 date_published: "2026-11-15"
-date_modified: "2026-11-15"
+date_modified: "2026-11-17"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -63,6 +63,6 @@ Nobody can promise that. Jobs depend on where AIZO customers buy.
 **Anything live right now?**
 If you're an electrician with an EV charger qualification, EV charger installation is live on the programme, from £594 depending on the job.
 
-Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) [air conditioning installer jobs](air-conditioning-installer-jobs.html) and, for electricians, [self employed electrician jobs](self-employed-electrician-jobs.html).
+Related: [how AIZO installer jobs work](how-aizo-installer-jobs-work.html), [boiler installer jobs](boiler-installer-jobs.html) [air conditioning installer jobs](air-conditioning-installer-jobs.html) [heating engineer jobs](heating-engineer-jobs.html) and, for electricians, [self employed electrician jobs](self-employed-electrician-jobs.html).
 
 [Join the AIZO installer programme](https://tradehand.com/partners/aizo/installers?utm_source=github_pages&utm_medium=parasite&utm_campaign=aizo-ufh-installers)
