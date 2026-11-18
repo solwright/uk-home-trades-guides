@@ -7,7 +7,7 @@ keyword: "heating engineer jobs"
 keyword_image: "/assets/img/heating-engineer-jobs-1200x630.png"
 image: "/assets/img/heating-engineer-jobs-1200x630.png"
 date_published: "2026-11-17"
-date_modified: "2026-11-17"
+date_modified: "2026-11-18"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -30,9 +30,9 @@ Short answer: the AIZO Quality Heating installer programme refers installs that 
 | Oil boiler installation | OFTEC registration | £1,125, depending on the job |
 | Underfloor heating | Heating engineer | £877.50, depending on the job |
 | Radiator installation and replacement | Heating engineer | £193.50, depending on the job |
-| Thermostat and heating controls | Heating engineer or electrician | £99, depending on the job |
+| Thermostat and heating controls | Heating engineer or electrician | £135, depending on the job |
 
-All five are recruiting right now. That means AIZO customers can't book them yet, and when they can, the jobs go to installers who've already joined. For every one you also need public liability insurance and the areas and days you want to work.
+Thermostat and heating controls jobs are live now. The other four are recruiting, which means AIZO customers can't book them yet, and when they can, the jobs go to installers who've already joined. For every one you also need public liability insurance and the areas and days you want to work.
 
 ## How much does it pay?
 
@@ -54,6 +54,8 @@ The live pages say the pay covers your labour, standard cable and parts, the cer
 5. The customer pays you once the job's done, through the Tradehand app or directly.
 
 It's a referral, not a job with a firm. The customer is yours and you stay your own boss.
+
+The longer write-up, with every extra on the offer: [heating engineer jobs](https://telegra.ph/heating-engineer-jobs-11-17). Plumber too? See [plumber jobs](https://telegra.ph/plumber-jobs-11-18) for water heater and softener fits.
 
 ## FAQ
 

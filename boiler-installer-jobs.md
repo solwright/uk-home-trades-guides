@@ -7,7 +7,7 @@ keyword: "boiler installer jobs"
 keyword_image: "/assets/img/boiler-installer-jobs-1200x630.png"
 image: "/assets/img/boiler-installer-jobs-1200x630.png"
 date_published: "2026-11-13"
-date_modified: "2026-11-17"
+date_modified: "2026-11-18"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -45,7 +45,7 @@ From £873 a job, and up to £1,026 depending on the boiler (combi, system or re
 
 The live page says the pay covers your labour, standard parts, the certificate and the notifications. Check it before you rely on any number, because rates get tuned from installer feedback.
 
-Other heating work on the same programme, all "from" figures that depend on the job: oil boiler installation from £1,125, underfloor heating from £877.50, radiator installation and replacement from £193.50, thermostat and heating controls from £110.
+Other heating work on the same programme, all "from" figures that depend on the job: oil boiler installation from £1,125, underfloor heating from £877.50, radiator installation and replacement from £193.50, thermostat and heating controls from £135 (jobs live now).
 
 ## How does a job work?
 

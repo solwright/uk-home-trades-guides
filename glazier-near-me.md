@@ -7,7 +7,7 @@ keyword: "glazier near me"
 keyword_image: "/assets/img/glazier-near-me-1200x630.png"
 image: "/assets/img/glazier-near-me-1200x630.png"
 date_published: "2026-11-17"
-date_modified: "2026-11-17"
+date_modified: "2026-11-18"
 ---
 {% if page.keyword_image %}
 <p><img src="{{ site.baseurl }}{{ page.keyword_image }}" alt="{{ page.keyword }}" width="1200" height="630"></p>
@@ -63,6 +63,8 @@ A glazier for broken, cracked or misted glass. A window fitter for new frames, t
 
 **Should I get more than one price?**
 Yes. A photo and the size of the pane make quotes quick to compare.
+
+The longer write-up, with safety glass and boarding up in more detail: [glazier near me](https://telegra.ph/glazier-near-me-11-17). Sash window sticking rather than broken? See [carpenter near me](https://telegra.ph/carpenter-near-me-11-18).
 
 Related: [locksmith near me](locksmith-near-me.html), [kitchen fitters near me](kitchen-fitters-near-me.html) and [bathroom fitters near me](bathroom-fitters-near-me.html).
 
